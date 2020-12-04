@@ -1,0 +1,31 @@
+.display-component {
+  background: #ffb6c1;
+  border-radius: 10px;
+  height: 500px;
+  padding: 10px;
+}
+
+.input-display {
+  max-width: fit-content;
+  border-radius: 10px;
+}
+
+.input-component {
+  background: #ffb6c1;
+  border-radius: 10px;
+  height: 350px;
+  padding: 10px;
+  margin: 0 0 10px 0;
+}
+.medicine-display {
+  display: flex;
+  justify-content: center;
+}
+
+.background-display {
+  background: #d3d3d3;
+  max-width: 100%;
+  display: flex;
+  justify-content: center;
+  max-height: max-content;
+}
